@@ -14,6 +14,7 @@ jobs:
     - name: Download
       run: |
         mkdir ./bingpic
+        cd ./bingpic
         curl https://pan.cyfan.top/api/bing/bing.php -o bing.jpg   
         curl https://pan.cyfan.top/api/bing/2.php -o 2.jpg   
         curl https://pan.cyfan.top/api/bing/3.php -o 3.jpg
@@ -22,6 +23,14 @@ jobs:
         curl https://pan.cyfan.top/api/bing/6.php -o 6.jpg
         curl https://pan.cyfan.top/api/bing/7.php -o 7.jpg
         curl https://pan.cyfan.top/api/bing/8.php -o 8.jpg
+        curl https://pan.cyfan.top/api/bing/bingc.php -o bing.js  
+        curl https://pan.cyfan.top/api/bing/2c.php -o 2.js
+        curl https://pan.cyfan.top/api/bing/3c.php -o 3.js
+        curl https://pan.cyfan.top/api/bing/4c.php -o 4.js
+        curl https://pan.cyfan.top/api/bing/5c.php -o 5.js
+        curl https://pan.cyfan.top/api/bing/6c.php -o 6.js
+        curl https://pan.cyfan.top/api/bing/7c.php -o 7.js
+        curl https://pan.cyfan.top/api/bing/8c.php -o 8.js
         
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
