@@ -1,0 +1,1 @@
+﻿document.write("Red fox in the Netherlands (© Wim Weenink/Minden Pictures)");

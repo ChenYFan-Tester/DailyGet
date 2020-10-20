@@ -1,0 +1,1 @@
+﻿document.write("The Mati Si (Horse's Hoof Temple) and grottoes of Mati Si Scenic Area, Gansu province, China (© Ana Flašker/Alamy)");

@@ -1,0 +1,1 @@
+﻿document.write("Harbor in Sitka, Alaska (© Blaine Harrington III/Alamy)");

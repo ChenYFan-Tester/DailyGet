@@ -1,0 +1,1 @@
+﻿document.write("Pisgah National Forest near Brevard, North Carolina (© Adam Jones/Danita Delimont)");

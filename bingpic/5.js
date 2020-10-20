@@ -1,0 +1,1 @@
+﻿document.write("Cabbage field in Sankt Pölten, Austria (© Stephan Zirwes/Getty Images)");

@@ -1,0 +1,1 @@
+document.write("Bare trees and autumn ferns in Beaver Lake Nature Center, New York (© Chris Murray/Alamy)");

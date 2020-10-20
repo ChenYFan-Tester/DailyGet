@@ -1,0 +1,1 @@
+﻿document.write("Ochre sea star on kelp off the coast of California (© Ralph Pace/Minden Pictures)");
