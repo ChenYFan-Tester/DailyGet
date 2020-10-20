@@ -1,0 +1,30 @@
+name: get
+on: 
+  schedule:
+    - cron: '0 0 0 ? * ? '
+  push:
+    branches: 
+      - main
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Download
+      run: |
+        md ./bingpic
+        curl https://pan.cyfan.top/api/bing/bing.php -o bing.jpg   
+        curl https://pan.cyfan.top/api/bing/2.php -o 2.jpg   
+        curl https://pan.cyfan.top/api/bing/3.php -o 3.jpg
+        curl https://pan.cyfan.top/api/bing/4.php -o 4.jpg
+        curl https://pan.cyfan.top/api/bing/5.php -o 5.jpg
+        curl https://pan.cyfan.top/api/bing/6.php -o 6.jpg
+        curl https://pan.cyfan.top/api/bing/7.php -o 7.jpg
+        curl https://pan.cyfan.top/api/bing/8.php -o 8.jpg
+        
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.TOKEN }}
+        publish_dir: ./
