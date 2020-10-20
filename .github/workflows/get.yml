@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Download
       run: |
-        md ./bingpic
+        mkdir ./bingpic
         curl https://pan.cyfan.top/api/bing/bing.php -o bing.jpg   
         curl https://pan.cyfan.top/api/bing/2.php -o 2.jpg   
         curl https://pan.cyfan.top/api/bing/3.php -o 3.jpg
