@@ -1,1 +1,1 @@
-document.write("Bare trees and autumn ferns in Beaver Lake Nature Center, New York (© Chris Murray/Alamy)");
+document.write("Chameleon walking on a plant, Indonesia (© SnapRapid/Offset by Shutterstock)");
