@@ -1,7 +1,7 @@
 name: get
 on: 
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   push:
     branches: 
       - main
@@ -31,6 +31,11 @@ jobs:
         curl https://pan.cyfan.top/api/bing/6c.php -o 6.js
         curl https://pan.cyfan.top/api/bing/7c.php -o 7.js
         curl https://pan.cyfan.top/api/bing/8c.php -o 8.js
+        cd ..
+        mkdir ./one-note
+        cd ./one-note
+        curl https://pan.cyfan.top/api/yiyan/api.php -o yiyan.js
+        curl https://pan.cyfan.top/api/djt/api.php -o djt.js
         
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
