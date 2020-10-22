@@ -1,1 +1,1 @@
-document.write("吃得苦中苦，才知道没有最苦，只有更苦。");
+document.write("咸鱼翻了身，也还是咸鱼。");
