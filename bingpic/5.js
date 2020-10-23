@@ -1,1 +1,1 @@
-﻿document.write("Pisgah National Forest near Brevard, North Carolina (© Adam Jones/Danita Delimont)");
+﻿document.write("Harbor in Sitka, Alaska (© Blaine Harrington III/Alamy)");

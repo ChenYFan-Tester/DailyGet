@@ -1,1 +1,1 @@
-document.write("咸鱼翻了身，也还是咸鱼。");
+document.write("别人都用名牌包包，而你，只能用用表情包。");

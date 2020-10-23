@@ -1,1 +1,1 @@
-document.write("Chameleon walking on a plant, Indonesia (© SnapRapid/Offset by Shutterstock)");
+document.write("Starlings flock over Lauwersmeer National Park, Netherlands (© Frans Lemmens/Alamy)");

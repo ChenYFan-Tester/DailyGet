@@ -1,1 +1,1 @@
-﻿document.write("Dragonfly fossil, about 150 million years old, in Solnhofen, Bavaria, Germany (© Ingo Arndt/Minden Pictures)");
+﻿document.write("Ochre sea star on kelp off the coast of California (© Ralph Pace/Minden Pictures)");
