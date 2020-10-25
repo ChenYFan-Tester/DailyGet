@@ -1,1 +1,1 @@
-﻿document.write("The Mati Si (Horse's Hoof Temple) and grottoes of Mati Si Scenic Area, Gansu province, China (© Ana Flašker/Alamy)");
+﻿document.write("Bare trees and autumn ferns in Beaver Lake Nature Center, New York (© Chris Murray/Alamy)");

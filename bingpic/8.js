@@ -1,1 +1,1 @@
-﻿document.write("Cabbage field in Sankt Pölten, Austria (© Stephan Zirwes/Getty Images)");
+﻿document.write("Pisgah National Forest near Brevard, North Carolina (© Adam Jones/Danita Delimont)");
