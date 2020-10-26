@@ -1,1 +1,1 @@
-﻿document.write("Old general store of Bents, Saskatchewan, Canada (© ImagineGolf/Getty Images)");
+﻿document.write("New York City skyline with United Nations headquarters (© Sean Pavone/Alamy)");

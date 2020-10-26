@@ -1,1 +1,1 @@
-﻿document.write("Starlings flock over Lauwersmeer National Park, Netherlands (© Frans Lemmens/Alamy)");
+﻿document.write("Old general store of Bents, Saskatchewan, Canada (© ImagineGolf/Getty Images)");
