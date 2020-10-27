@@ -1,1 +1,1 @@
-document.write("A pumpkin patch in British Columbia, Canada (© James Chen/Shutterstock)");
+document.write("Corfe Castle, Dorset, England (© Ross Hoddinott/Minden Pictures)");

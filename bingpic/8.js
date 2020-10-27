@@ -1,1 +1,1 @@
-﻿document.write("Harbor in Sitka, Alaska (© Blaine Harrington III/Alamy)");
+﻿document.write("The Mati Si (Horse's Hoof Temple) and grottoes of Mati Si Scenic Area, Gansu province, China (© Ana Flašker/Alamy)");
