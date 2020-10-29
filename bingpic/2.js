@@ -1,1 +1,1 @@
-﻿document.write("Corfe Castle, Dorset, England (© Ross Hoddinott/Minden Pictures)");
+﻿document.write("Cambron Covered Bridge in Green Mountain Park, near Huntsville, Alabama (© Jens Lambert/Shutterstock)");

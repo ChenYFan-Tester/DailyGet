@@ -1,1 +1,1 @@
-document.write("Cambron Covered Bridge in Green Mountain Park, near Huntsville, Alabama (© Jens Lambert/Shutterstock)");
+document.write("Grotesques of native Ecuadorian seabirds on the Basílica del Voto Nacional in Quito, Ecuador (© Henri Leduc/Getty Images)");
