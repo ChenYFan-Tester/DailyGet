@@ -1,1 +1,1 @@
-﻿document.write("Mazezilla corn maze at Klingel's Farm in Pennsylvania (© Alex Potemkin/Getty Images)");
+﻿document.write("Blakiston's fish owl in Hokkaido, Japan (© Martin Bailey/Offset by Shutterstock)");

@@ -1,1 +1,1 @@
-﻿document.write("New York City skyline with United Nations headquarters (© Sean Pavone/Alamy)");
+﻿document.write("A pumpkin patch in British Columbia, Canada (© James Chen/Shutterstock)");

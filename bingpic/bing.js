@@ -1,1 +1,1 @@
-document.write("Blakiston's fish owl in Hokkaido, Japan (© Martin Bailey/Offset by Shutterstock)");
+document.write("Dark Hedges in County Antrim, Northern Ireland (© VanderWolf Images/Shutterstock)");
