@@ -1,1 +1,1 @@
-document.write("Chéran River running through a gorge, Savoie, France (© Jean-Philippe Delobelle/Minden)");
+document.write("Polar bears in Torngat Mountains National Park, Canada (© Cavan Images/Offset by Shutterstock)");
