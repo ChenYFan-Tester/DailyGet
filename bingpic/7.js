@@ -1,1 +1,1 @@
-﻿document.write("Grotesques of native Ecuadorian seabirds on the Basílica del Voto Nacional in Quito, Ecuador (© Henri Leduc/Getty Images)");
+﻿document.write("Mazezilla corn maze at Klingel's Farm in Pennsylvania (© Alex Potemkin/Getty Images)");

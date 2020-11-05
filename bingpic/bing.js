@@ -1,1 +1,1 @@
-document.write("Loch Leum na Luirginn and Loch Cleat seen from the Quiraing, Isle of Skye, Scotland, UK (© Sebastian Wasek/Sime/eStock Photo)");
+document.write("Caribou swimming across Alaska's Kobuk River during fall migration (© Michio Hoshino/Minden Pictures)");
