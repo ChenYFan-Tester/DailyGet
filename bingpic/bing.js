@@ -1,1 +1,1 @@
-document.write("Caribou swimming across Alaska's Kobuk River during fall migration (© Michio Hoshino/Minden Pictures)");
+document.write("Albarracín, Spain (© Domingo Leiva/Getty Images)");

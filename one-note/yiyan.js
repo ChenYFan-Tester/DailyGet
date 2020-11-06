@@ -1,1 +1,1 @@
-document.write("恼人的气味必须从根源去除。");
+document.write("若不想输给任何人，就得先认清自己的弱小！");
