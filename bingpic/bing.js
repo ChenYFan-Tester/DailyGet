@@ -1,1 +1,1 @@
-document.write("Albarracín, Spain (© Domingo Leiva/Getty Images)");
+document.write("West Indian manatees in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Norbert Probst/Getty Images)");
