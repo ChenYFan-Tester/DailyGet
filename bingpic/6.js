@@ -1,1 +1,1 @@
-﻿document.write("Polar bears in Torngat Mountains National Park, Canada (© Cavan Images/Offset by Shutterstock)");
+﻿document.write("Loch Leum na Luirginn and Loch Cleat seen from the Quiraing, Isle of Skye, Scotland, UK (© Sebastian Wasek/Sime/eStock Photo)");

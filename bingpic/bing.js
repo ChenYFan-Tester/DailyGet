@@ -1,1 +1,1 @@
-document.write("Bison in Grand Teton National Park, Wyoming (© Brian Evans/Getty Images)");
+document.write("Derwent Island on Derwentwater in the Lake District National Park, Cumbria, England (© Chris Warren/eStock Photo)");

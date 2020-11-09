@@ -1,1 +1,1 @@
-﻿document.write("Dark Hedges in County Antrim, Northern Ireland (© VanderWolf Images/Shutterstock)");
+﻿document.write("Chéran River running through a gorge, Savoie, France (© Jean-Philippe Delobelle/Minden)");
