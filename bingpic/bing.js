@@ -1,1 +1,1 @@
-document.write("Derwent Island on Derwentwater in the Lake District National Park, Cumbria, England (© Chris Warren/eStock Photo)");
+document.write("Vineyards of Barolo, Piedmont, Italy (© Marco Arduino/eStock Photo)");
