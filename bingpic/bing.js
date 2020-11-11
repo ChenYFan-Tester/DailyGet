@@ -1,1 +1,1 @@
-document.write("Vineyards of Barolo, Piedmont, Italy (© Marco Arduino/eStock Photo)");
+document.write("Badlands National Park, South Dakota (© Dennis Frates/Alamy)");
