@@ -1,1 +1,1 @@
-document.write("我是为了保护我需要的人而战。");
+document.write("我要拼，装上假牙也要拼！");
