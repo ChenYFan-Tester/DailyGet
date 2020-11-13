@@ -1,1 +1,1 @@
-﻿document.write("Badlands National Park, South Dakota (© Dennis Frates/Alamy)");
+﻿document.write("Chestnuts inside their burs (© Kai Keisuke/Shutterstock)");

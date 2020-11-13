@@ -1,1 +1,1 @@
-﻿document.write("West Indian manatees in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Norbert Probst/Getty Images)");
+﻿document.write("Bison in Grand Teton National Park, Wyoming (© Brian Evans/Getty Images)");
