@@ -1,1 +1,1 @@
-document.write("心软不是病，回头才致命。");
+document.write("喜欢就要表白，这样才能知道你是几号备胎。");
