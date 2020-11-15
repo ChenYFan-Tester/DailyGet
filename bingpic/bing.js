@@ -1,1 +1,1 @@
-document.write("Ravens in a snowstorm near Kuhmo, Finland (© Frans Lemmens/Alamy)");
+document.write("Iberian ibex herd, Sierra de Gredos, Ávila, Castile and León, Spain (© Juan Carlos Munoz/Minden Pictures)");

@@ -1,1 +1,1 @@
-document.write("你要相信，没有到不了的明天。");
+document.write("我除了投三分，就什么都没有了⋯⋯");
