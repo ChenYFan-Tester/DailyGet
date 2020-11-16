@@ -1,1 +1,1 @@
-document.write("Iberian ibex herd, Sierra de Gredos, Ávila, Castile and León, Spain (© Juan Carlos Munoz/Minden Pictures)");
+document.write("Lupins on the shores of Lake Tekapo in New Zealand (© Stanislav Kachyna/Shutterstock)");
