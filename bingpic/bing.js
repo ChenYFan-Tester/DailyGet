@@ -1,1 +1,1 @@
-document.write("Mixed forest, Füssen, Bavaria, Germany (© Erich Kuchling/DEEPOL by plainpicture)");
+document.write("Hokkaido, Japan (© Hiroshi Yokoyama/eStock Photo)");
