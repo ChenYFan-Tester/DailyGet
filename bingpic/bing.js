@@ -1,1 +1,1 @@
-document.write("Hokkaido, Japan (© Hiroshi Yokoyama/eStock Photo)");
+document.write("Inukshuk silhouetted against the northern lights in Barren Lands, Northwest Territories, Canada (© Mark Duffy/Alamy)");
