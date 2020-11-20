@@ -1,1 +1,1 @@
-document.write("Inukshuk silhouetted against the northern lights in Barren Lands, Northwest Territories, Canada (© Mark Duffy/Alamy)");
+document.write("Chestnut-mandibled toucan nesting in the cavity of a tree, Costa Rica (© Greg Basco/Minden Pictures)");
