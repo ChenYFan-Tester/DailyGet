@@ -1,1 +1,1 @@
-﻿document.write("Lupins on the shores of Lake Tekapo in New Zealand (© Stanislav Kachyna/Shutterstock)");
+﻿document.write("Mixed forest, Füssen, Bavaria, Germany (© Erich Kuchling/DEEPOL by plainpicture)");
