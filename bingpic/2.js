@@ -1,1 +1,1 @@
-﻿document.write("Autumn leaves frozen in Price Lake, Julian Price Memorial Park, Blue Ridge Parkway, North Carolina (© Richard Bernabe/Offset by Shutterstock)");
+﻿document.write("Common cranes in the Drömling wetland, Germany (© Mike Friedrichs/Getty Images)");

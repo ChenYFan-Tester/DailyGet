@@ -1,1 +1,1 @@
-﻿document.write("Aerial view of the Aiguille du Midi in the Mont Blanc massif, France (© Amazing Aerial Agency/Offset by Shutterstock)");
+﻿document.write("Autumn leaves frozen in Price Lake, Julian Price Memorial Park, Blue Ridge Parkway, North Carolina (© Richard Bernabe/Offset by Shutterstock)");

@@ -1,1 +1,1 @@
-document.write("条条大路通罗马，每条都有收费站。");
+document.write("没人牵手，我就揣兜。");
