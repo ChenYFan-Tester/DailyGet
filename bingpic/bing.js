@@ -1,1 +1,1 @@
-document.write("Kalbarri National Park, Australia (© AWL Images/Offset by Shutterstock)");
+document.write("Huge waves crashing on rocks along Asilomar State Beach, Pacific Grove, California (© Sheila Haddad/Danita Delimont)");
