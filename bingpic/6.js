@@ -1,1 +1,1 @@
-﻿document.write("Chestnut-mandibled toucan nesting in the cavity of a tree, Costa Rica (© Greg Basco/Minden Pictures)");
+﻿document.write("Aerial view of the Aiguille du Midi in the Mont Blanc massif, France (© Amazing Aerial Agency/Offset by Shutterstock)");

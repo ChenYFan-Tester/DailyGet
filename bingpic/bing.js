@@ -1,1 +1,1 @@
-document.write("Huge waves crashing on rocks along Asilomar State Beach, Pacific Grove, California (© Sheila Haddad/Danita Delimont)");
+document.write("A grove of American elm trees at Central Park's Mall, New York City (© AWL Images/Danita Delimont)");

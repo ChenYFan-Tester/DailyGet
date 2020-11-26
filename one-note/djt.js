@@ -1,1 +1,1 @@
-document.write("脱发怎么办？要健康饮食保持良好心态，这样就能接受这个事实了。");
+document.write("贵不是iPhone的缺陷，穷是你的缺陷。");
