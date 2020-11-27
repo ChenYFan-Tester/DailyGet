@@ -1,1 +1,1 @@
-document.write("贵不是iPhone的缺陷，穷是你的缺陷。");
+document.write("就算大雨颠覆全城，公司照样算你迟到。");
