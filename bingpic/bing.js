@@ -1,1 +1,1 @@
-document.write("A Siberian chipmunk on Mount Taisetsu, Hokkaido, Japan (© Ida Toshiaki/Minden Pictures)");
+document.write("Kayaking in Glacier National Park, Montana (© Makayla Crist/Cavan)");
