@@ -1,1 +1,1 @@
-﻿document.write("A grove of American elm trees at Central Park's Mall, New York City (© AWL Images/Danita Delimont)");
+﻿document.write("A Siberian chipmunk on Mount Taisetsu, Hokkaido, Japan (© Ida Toshiaki/Minden Pictures)");
