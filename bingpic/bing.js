@@ -1,1 +1,1 @@
-document.write("Partly snow-covered slope in Val Cervara, an old-growth beech forest, Abruzzo, Italy (© Bruno D'Amicis/Minden Pictures)");
+document.write("Mount Taranaki, Egmont National Park, North Island, New Zealand (© Francesco Vaninetti/plainpicture)");
