@@ -1,1 +1,1 @@
-﻿document.write("Kayaking in Glacier National Park, Montana (© Makayla Crist/Cavan)");
+﻿document.write("Partly snow-covered slope in Val Cervara, an old-growth beech forest, Abruzzo, Italy (© Bruno D'Amicis/Minden Pictures)");

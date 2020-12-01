@@ -1,1 +1,1 @@
-﻿document.write("Common cranes in the Drömling wetland, Germany (© Mike Friedrichs/Getty Images)");
+﻿document.write("Kalbarri National Park, Australia (© AWL Images/Offset by Shutterstock)");

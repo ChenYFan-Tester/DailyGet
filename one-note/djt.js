@@ -1,1 +1,1 @@
-document.write("你是我的小苹果，哎呀讨厌！我是说我TM真想削你。");
+document.write("都说姐漂亮，其实都是妆出来的");
