@@ -1,1 +1,1 @@
-document.write("都说姐漂亮，其实都是妆出来的");
+document.write("等到历史考试的时候，历史将会被我改写！");
