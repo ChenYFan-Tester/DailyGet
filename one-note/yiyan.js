@@ -1,1 +1,1 @@
-document.write("早上的五分钟等于白天的三十分钟。");
+document.write("相信即是幸福！");

@@ -1,1 +1,1 @@
-document.write("Cove of Spires in Kenai Fjords National Park, Alaska (© Sekar B/Shutterstock)");
+document.write("Tête de Gorgias (left) and Roche Grande (background), near Entraunes, Alpes-Maritimes, France (© aerial-photos.com/Alamy)");
