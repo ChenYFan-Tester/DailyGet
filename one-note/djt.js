@@ -1,1 +1,1 @@
-document.write("贵不是iPhone的缺陷，穷是你的缺陷。");
+document.write("以前除了读书什么都不懂，现在除了读书什么都懂。");

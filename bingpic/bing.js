@@ -1,1 +1,1 @@
-document.write("Tête de Gorgias (left) and Roche Grande (background), near Entraunes, Alpes-Maritimes, France (© aerial-photos.com/Alamy)");
+document.write("African elephants in Addo Elephant National Park, South Africa (© Robert Harding/Alamy)");
