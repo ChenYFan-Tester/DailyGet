@@ -1,1 +1,1 @@
-﻿document.write("Mount Taranaki, Egmont National Park, North Island, New Zealand (© Francesco Vaninetti/plainpicture)");
+﻿document.write("Eilean Donan Castle in Scotland (© CBW/Alamy)");
