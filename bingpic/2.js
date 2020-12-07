@@ -1,1 +1,1 @@
-﻿document.write("African elephants in Addo Elephant National Park, South Africa (© Robert Harding/Alamy)");
+﻿document.write("The village of Benasque, Huesca, Spain (© Miscelleneoustock/Alamy)");

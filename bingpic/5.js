@@ -1,1 +1,1 @@
-﻿document.write("Common terns sharing a small fish (© Ryzhkov Sergey/Shutterstock)");
+﻿document.write("Cove of Spires in Kenai Fjords National Park, Alaska (© Sekar B/Shutterstock)");

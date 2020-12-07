@@ -1,1 +1,1 @@
-document.write("The village of Benasque, Huesca, Spain (© Miscelleneoustock/Alamy)");
+document.write("Elevated path in Plitvice Lakes National Park, Croatia (© Alessandro Laporta/Offset by Shutterstock)");
