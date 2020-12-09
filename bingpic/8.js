@@ -1,1 +1,1 @@
-﻿document.write("Eilean Donan Castle in Scotland (© CBW/Alamy)");
+﻿document.write("Common terns sharing a small fish (© Ryzhkov Sergey/Shutterstock)");

@@ -1,1 +1,1 @@
-document.write("Birdhouses hanging in a tree (© Westend61/Getty Images)");
+document.write("Rocca Calascio in Abruzzo, Italy (© Francesco Russo/eStock Photo)");
