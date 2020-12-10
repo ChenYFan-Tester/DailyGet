@@ -1,1 +1,1 @@
-﻿document.write("Elevated path in Plitvice Lakes National Park, Croatia (© Alessandro Laporta/Offset by Shutterstock)");
+﻿document.write("Birdhouses hanging in a tree (© Westend61/Getty Images)");
