@@ -1,1 +1,1 @@
-﻿document.write("Rocca Calascio in Abruzzo, Italy (© Francesco Russo/eStock Photo)");
+﻿document.write("Kinkakuji temple in winter, Kyoto, Japan (© yoko_ken_chan/Shutterstock)");
