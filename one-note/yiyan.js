@@ -1,1 +1,1 @@
-document.write("人生总有许多意，握在手里的风筝，也会突然断了线。");
+document.write("有个等待也不错");
