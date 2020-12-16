@@ -1,1 +1,1 @@
-﻿document.write("Gornergrat railway station and the Matterhorn in Zermatt, Switzerland (© coolbiere photograph/Getty Images)");
+﻿document.write("Pine grosbeak (© Peter Lilja/Getty Images)");
