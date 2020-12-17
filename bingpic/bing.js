@@ -1,1 +1,1 @@
-document.write("Bastei Bridge above the Elbe River in Saxon Switzerland National Park, Germany (© Reinhard Schmid/eStock Photo)");
+document.write("Mist surrounding a forest in Munnar, Kerala, India (© Ahammed Riswan/EyeEm/Getty Images)");

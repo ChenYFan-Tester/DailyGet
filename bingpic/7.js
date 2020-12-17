@@ -1,1 +1,1 @@
-﻿document.write("Kinkakuji temple in winter, Kyoto, Japan (© yoko_ken_chan/Shutterstock)");
+﻿document.write("Sleeping Arctic fox (© Menno Schaefer/Getty Images)");
