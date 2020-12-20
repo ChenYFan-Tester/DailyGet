@@ -1,1 +1,1 @@
-﻿document.write("Mist surrounding a forest in Munnar, Kerala, India (© Ahammed Riswan/EyeEm/Getty Images)");
+﻿document.write("Snowy Norway spruce forest at sunset, Thuringia, Germany (© Frank Sommariva/ImageBROKER/Offset by Shutterstock)");

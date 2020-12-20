@@ -1,1 +1,1 @@
-﻿document.write("Snowy Norway spruce forest at sunset, Thuringia, Germany (© Frank Sommariva/ImageBROKER/Offset by Shutterstock)");
+﻿document.write("Tre Cime di Lavaredo as seen from the Lavaredo fork, Sexten Dolomites, Italy (© AWL Images/Danita Delimont)");
