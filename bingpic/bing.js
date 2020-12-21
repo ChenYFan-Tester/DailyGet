@@ -1,1 +1,1 @@
-document.write("Early morning frost on trees in Mount Siguniang National Park in Sichuan province, China (© Robert Harding World Imagery/Offset by Shutterstock)");
+document.write("Mountain goat kid in western Montana (© Donald M. Jones/Minden Pictures)");

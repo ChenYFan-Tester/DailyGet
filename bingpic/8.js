@@ -1,1 +1,1 @@
-﻿document.write("Poinsettia leaf close-up (© Charles Floyd/Alamy)");
+﻿document.write("Gornergrat railway station and the Matterhorn in Zermatt, Switzerland (© coolbiere photograph/Getty Images)");

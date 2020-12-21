@@ -1,1 +1,1 @@
-﻿document.write("Pine grosbeak (© Peter Lilja/Getty Images)");
+﻿document.write("Bastei Bridge above the Elbe River in Saxon Switzerland National Park, Germany (© Reinhard Schmid/eStock Photo)");

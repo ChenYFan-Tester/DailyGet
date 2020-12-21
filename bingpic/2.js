@@ -1,1 +1,1 @@
-﻿document.write("Tre Cime di Lavaredo as seen from the Lavaredo fork, Sexten Dolomites, Italy (© AWL Images/Danita Delimont)");
+﻿document.write("Early morning frost on trees in Mount Siguniang National Park in Sichuan province, China (© Robert Harding World Imagery/Offset by Shutterstock)");
