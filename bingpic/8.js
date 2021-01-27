@@ -1,1 +1,1 @@
-﻿document.write("Gornergrat railway station and the Matterhorn in Zermatt, Switzerland (© coolbiere photograph/Getty Images)");
+﻿document.write("Ruins of the ancient Maya city of Calakmul surrounded by the jungle, Campeche, Mexico (© Alfredo Matus/Shutterstock)");

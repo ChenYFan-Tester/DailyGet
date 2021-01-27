@@ -1,1 +1,1 @@
-﻿document.write("Pine grosbeak (© Peter Lilja/Getty Images)");
+﻿document.write("Gentoo penguins near Danco Island, Antarctica (© David Merron/Getty Images)");

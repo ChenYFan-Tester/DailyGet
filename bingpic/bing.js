@@ -1,1 +1,1 @@
-document.write("Mountain goat kid in western Montana (© Donald M. Jones/Minden Pictures)");
+document.write("Heart Reef, part of the Great Barrier Reef off Queensland, Australia (© Peter Adams/Offset by Shutterstock)");

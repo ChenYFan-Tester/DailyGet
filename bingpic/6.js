@@ -1,1 +1,1 @@
-﻿document.write("Bastei Bridge above the Elbe River in Saxon Switzerland National Park, Germany (© Reinhard Schmid/eStock Photo)");
+﻿document.write("Red squirrel in the Highlands of Scotland (© Scotland: The Big Picture/Minden Pictures)");

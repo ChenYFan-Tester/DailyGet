@@ -1,1 +1,1 @@
-﻿document.write("Mist surrounding a forest in Munnar, Kerala, India (© Ahammed Riswan/EyeEm/Getty Images)");
+﻿document.write("Paddleboarder in Bloody Brook, alongside the Connecticut River in Hanover, New Hampshire (© DEEPOL by plainpicture)");
