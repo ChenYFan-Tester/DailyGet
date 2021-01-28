@@ -1,1 +1,1 @@
-﻿document.write("Paddleboarder in Bloody Brook, alongside the Connecticut River in Hanover, New Hampshire (© DEEPOL by plainpicture)");
+﻿document.write("Chu Dang Ya near Pleiku in Gia Lai province, Vietnam (© Quang Ngoc Nguyen/Alamy)");

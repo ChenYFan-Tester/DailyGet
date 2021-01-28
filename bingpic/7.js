@@ -1,1 +1,1 @@
-﻿document.write("Gentoo penguins near Danco Island, Antarctica (© David Merron/Getty Images)");
+﻿document.write("Red squirrel in the Highlands of Scotland (© Scotland: The Big Picture/Minden Pictures)");

@@ -1,1 +1,1 @@
-﻿document.write("Ruins of the ancient Maya city of Calakmul surrounded by the jungle, Campeche, Mexico (© Alfredo Matus/Shutterstock)");
+﻿document.write("Gentoo penguins near Danco Island, Antarctica (© David Merron/Getty Images)");

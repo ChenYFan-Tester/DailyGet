@@ -1,1 +1,1 @@
-﻿document.write("Handicrafts of the Guna people of the Guna Yala archipelago, Panama (© Lars Schneider/Tandem Stills + Motion)");
+﻿document.write("Lightning strikes near Church Rock, Red Rock Park, New Mexico (© Tim Fitzharris/Minden Pictures)");
