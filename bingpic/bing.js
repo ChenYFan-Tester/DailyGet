@@ -1,1 +1,1 @@
-document.write("Arctic wolf family in Canada (© 4FR/Getty Images)");
+document.write("European robin during a winter snowstorm, Peak District National Park, England (© Ben Robson Hull Photography/Getty Images)");

@@ -1,1 +1,1 @@
-﻿document.write("Red squirrel in the Highlands of Scotland (© Scotland: The Big Picture/Minden Pictures)");
+﻿document.write("Paddleboarder in Bloody Brook, alongside the Connecticut River in Hanover, New Hampshire (© DEEPOL by plainpicture)");

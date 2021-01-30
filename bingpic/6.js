@@ -1,1 +1,1 @@
-﻿document.write("Chu Dang Ya near Pleiku in Gia Lai province, Vietnam (© Quang Ngoc Nguyen/Alamy)");
+﻿document.write("Handicrafts of the Guna people of the Guna Yala archipelago, Panama (© Lars Schneider/Tandem Stills + Motion)");
