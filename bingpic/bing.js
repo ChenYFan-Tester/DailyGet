@@ -1,1 +1,1 @@
-document.write("European robin during a winter snowstorm, Peak District National Park, England (© Ben Robson Hull Photography/Getty Images)");
+document.write("Abandoned cottage in the foothills of Brown Willy on Bodmin Moor, the highest point in Cornwall, England (© Helen Hotson/Alamy Stock Photo)");

@@ -1,1 +1,1 @@
-document.write("虽然人生不能reset，人际关系却可以reset。");
+document.write("自身不先改变的话，一切都不会改变。");

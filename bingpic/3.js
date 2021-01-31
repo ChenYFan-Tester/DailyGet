@@ -1,1 +1,1 @@
-﻿document.write("Taormina, Sicily, Italy (© Juergen Schonnop/Getty Images)");
+﻿document.write("Arctic wolf family in Canada (© 4FR/Getty Images)");
