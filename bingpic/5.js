@@ -1,1 +1,1 @@
-﻿document.write("Heart Reef, part of the Great Barrier Reef off Queensland, Australia (© Peter Adams/Offset by Shutterstock)");
+﻿document.write("Taormina, Sicily, Italy (© Juergen Schonnop/Getty Images)");
