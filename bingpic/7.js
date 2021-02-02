@@ -1,1 +1,1 @@
-﻿document.write("Lightning strikes near Church Rock, Red Rock Park, New Mexico (© Tim Fitzharris/Minden Pictures)");
+﻿document.write("Heart Reef, part of the Great Barrier Reef off Queensland, Australia (© Peter Adams/Offset by Shutterstock)");
