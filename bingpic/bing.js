@@ -1,1 +1,1 @@
-document.write("Panoramic view of the city of Toledo after sunset, Spain (© Frank Fischbach/Alamy)");
+document.write("Marmot with the peak of Grossglockner in the background, Austria (© SeppFriedhuber/Getty Images)");
