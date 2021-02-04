@@ -1,1 +1,1 @@
-document.write("成不了药就成为毒，不然你只是普通的水而已。");
+document.write("拳不离手，曲不离口");
