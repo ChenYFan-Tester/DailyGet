@@ -1,1 +1,1 @@
-document.write("拳不离手，曲不离口");
+document.write("已经走到尽头的东西，重生也不过是再一次的消亡。");
