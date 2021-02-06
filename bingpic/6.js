@@ -1,1 +1,1 @@
-﻿document.write("Abandoned cottage in the foothills of Brown Willy on Bodmin Moor, the highest point in Cornwall, England (© Helen Hotson/Alamy Stock Photo)");
+﻿document.write("Mittenwalder Hütte in the Bavarian Alps of Germany (© Sebastian Frölich/Offset by Shutterstock)");
