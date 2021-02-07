@@ -1,1 +1,1 @@
-﻿document.write("Colossal limestone statues on Mount Nemrut, Adıyaman, Turkey (© Peerakit JIrachetthakun/Getty Images)");
+﻿document.write("Northern Vosges Regional Nature Park, France (© Michel Rauch/Minden Pictures)");
