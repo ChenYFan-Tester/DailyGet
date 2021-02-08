@@ -1,1 +1,1 @@
-﻿document.write("'The Wave' sandstone formation with pools of water in Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)");
+﻿document.write("Mount Sefton in Aoraki/Mount Cook National Park, South Island, New Zealand (© AWL Images/Danita Delimont)");
