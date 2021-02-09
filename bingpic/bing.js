@@ -1,1 +1,1 @@
-document.write("Hikers on alpine glacier, Mont Blanc, Chamonix, France (© agustavop/Getty Images)");
+document.write(`Moon dog photographed at Hug Point Falls on the Oregon coast (© Ben Coffman/Tandem Stills + Motion)`);
