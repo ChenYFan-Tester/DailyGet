@@ -1,1 +1,1 @@
-﻿document.write("Mittenwalder Hütte in the Bavarian Alps of Germany (© Sebastian Frölich/Offset by Shutterstock)");
+﻿document.write("Panoramic view of the city of Toledo after sunset, Spain (© Frank Fischbach/Alamy)");

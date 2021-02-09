@@ -1,1 +1,1 @@
-﻿document.write("Mount Sefton in Aoraki/Mount Cook National Park, South Island, New Zealand (© AWL Images/Danita Delimont)");
+﻿document.write("Great grey owls in Montreal, Canada (© rollandgelly/Getty Images)");

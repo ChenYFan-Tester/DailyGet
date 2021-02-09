@@ -1,1 +1,1 @@
-document.write("你把所有不一定，都变成了一定不。");
+document.write("你只要不抬杠，钱真的是万能的。");

@@ -1,1 +1,1 @@
-document.write("Great grey owls in Montreal, Canada (© rollandgelly/Getty Images)");
+document.write("Hikers on alpine glacier, Mont Blanc, Chamonix, France (© agustavop/Getty Images)");
