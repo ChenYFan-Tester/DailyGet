@@ -15,27 +15,26 @@ jobs:
       run: |
         mkdir ./bingpic
         cd ./bingpic
-        curl https://pan.cyfan.top/api/bing/bing.php -o bing.jpg   
-        curl https://pan.cyfan.top/api/bing/2.php -o 2.jpg   
-        curl https://pan.cyfan.top/api/bing/3.php -o 3.jpg
-        curl https://pan.cyfan.top/api/bing/4.php -o 4.jpg
-        curl https://pan.cyfan.top/api/bing/5.php -o 5.jpg
-        curl https://pan.cyfan.top/api/bing/6.php -o 6.jpg
-        curl https://pan.cyfan.top/api/bing/7.php -o 7.jpg
-        curl https://pan.cyfan.top/api/bing/8.php -o 8.jpg
-        curl https://pan.cyfan.top/api/bing/bingc.php -o bing.js  
-        curl https://pan.cyfan.top/api/bing/2c.php -o 2.js
-        curl https://pan.cyfan.top/api/bing/3c.php -o 3.js
-        curl https://pan.cyfan.top/api/bing/4c.php -o 4.js
-        curl https://pan.cyfan.top/api/bing/5c.php -o 5.js
-        curl https://pan.cyfan.top/api/bing/6c.php -o 6.js
-        curl https://pan.cyfan.top/api/bing/7c.php -o 7.js
-        curl https://pan.cyfan.top/api/bing/8c.php -o 8.js
+        curl https://api.cyfan.top/bing?day=0 -o bing.jpg   
+        curl https://api.cyfan.top/bing?day=1 -o 2.jpg   
+        curl https://api.cyfan.top/bing?day=2 -o 3.jpg
+        curl https://api.cyfan.top/bing?day=3 -o 4.jpg
+        curl https://api.cyfan.top/bing?day=4 -o 5.jpg
+        curl https://api.cyfan.top/bing?day=5 -o 6.jpg
+        curl https://api.cyfan.top/bing?day=6 -o 7.jpg
+        curl https://api.cyfan.top/bing?day=7 -o 8.jpg
+        curl https://api.cyfan.top/binginfo?day=0 -o bing.js  
+        curl https://api.cyfan.top/binginfo?day=1 -o 2.js
+        curl https://api.cyfan.top/binginfo?day=2 -o 3.js
+        curl https://api.cyfan.top/binginfo?day=3 -o 4.js
+        curl https://api.cyfan.top/binginfo?day=4 -o 5.js
+        curl https://api.cyfan.top/binginfo?day=5 -o 6.js
+        curl https://api.cyfan.top/binginfo?day=6 -o 7.js
+        curl https://api.cyfan.top/binginfo?day=7 -o 8.js
         cd ..
         mkdir ./one-note
         cd ./one-note
-        curl https://pan.cyfan.top/api/yiyan/api.php -o yiyan.js
-        curl https://pan.cyfan.top/api/djt/api.php -o djt.js
+        curl https://api.cyfan.top/dujitang -o djt.js
         
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
