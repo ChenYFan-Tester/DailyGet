@@ -1,1 +1,1 @@
-document.write(`Marmot with the peak of Grossglockner in the background, Austria (© SeppFriedhuber/Getty Images)`);
+document.write(`Colossal limestone statues on Mount Nemrut, Adıyaman, Turkey (© Peerakit JIrachetthakun/Getty Images)`);
