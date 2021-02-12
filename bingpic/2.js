@@ -1,1 +1,1 @@
-document.write(`Moon dog photographed at Hug Point Falls on the Oregon coast (© Ben Coffman/Tandem Stills + Motion)`);
+document.write(`Nieve penitente ice formations seen on Agua Negra Pass in the Coquimbo Region of the Andes, Chile (© Art Wolfe/Danita Delimont)`);
