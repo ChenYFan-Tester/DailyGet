@@ -1,1 +1,1 @@
-document.write(`Northern Vosges Regional Nature Park, France (© Michel Rauch/Minden Pictures)`);
+document.write(`'The Wave' sandstone formation with pools of water in Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)`);

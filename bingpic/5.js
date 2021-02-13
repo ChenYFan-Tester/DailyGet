@@ -1,1 +1,1 @@
-document.write(`Great grey owls in Montreal (© rollandgelly/Getty Images)`);
+document.write(`John Lewis hero mural by Sean Schwab in the Sweet Auburn district of Atlanta, Georgia (© Ilene Perlman/Alamy)`);
