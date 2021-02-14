@@ -1,1 +1,1 @@
-document.write(`Flowering almond trees in California's Central Valley (© Jeffrey Lewis/Tandem Stills + Motion)`);
+document.write(`Muskox with newborn in the central Arctic coastal plain of Alaska (© Steven Kazlowski/Danita Delimont)`);

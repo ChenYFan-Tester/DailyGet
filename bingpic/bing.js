@@ -1,1 +1,1 @@
-document.write(`Muskox with newborn in the central Arctic coastal plain of Alaska (© Steven Kazlowski/Danita Delimont)`);
+document.write(`Eastern bluebirds in Charlotte, North Carolina (© Elizabeth W. Kearley/Getty Images)`);
