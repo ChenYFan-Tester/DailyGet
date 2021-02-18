@@ -1,1 +1,1 @@
-document.write(`Canada Jay (Perisoreus canadensis) in light snowfall, Ontario (© Alan Murphy/Minden Pictures)`);
+document.write(`Ocean waves crashing over a heart-shaped rock island off the coast of Sydney, Australia (© Kristian Bell/Getty Images)`);
