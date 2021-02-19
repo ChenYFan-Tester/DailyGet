@@ -1,1 +1,1 @@
-document.write(`Nieve penitente ice formations seen on Agua Negra Pass in the Coquimbo Region of the Andes, Chile (© Art Wolfe/Danita Delimont)`);
+document.write(`Flowering almond trees in California's Central Valley (© Jeffrey Lewis/Tandem Stills + Motion)`);
