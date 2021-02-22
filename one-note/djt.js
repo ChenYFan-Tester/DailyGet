@@ -1,1 +1,1 @@
-document.write(`别太晚睡，熬夜很伤手机的。`);
+document.write(`没有什么可以将你打败，因为你从未成功过。`);
