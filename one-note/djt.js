@@ -1,1 +1,1 @@
-document.write(`我试过销声匿迹，最终也无人问及。`);
+document.write(`别太晚睡，熬夜很伤手机的。`);
