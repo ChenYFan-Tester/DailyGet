@@ -1,1 +1,1 @@
-document.write(`小时候做过的最蠢的事，可能是盼着长大吧。`);
+document.write(`听君一席话，浪费十分钟。`);
