@@ -1,1 +1,1 @@
-document.write(`听君一席话，浪费十分钟。`);
+document.write(`不要认为你被世界丢弃，只是世界没空搭理你。`);
