@@ -1,1 +1,1 @@
-document.write(`间歇性踌躇满志，持续性混吃等死。`);
+document.write(`睡觉睡到手抽筋，数钱数到自然醒。`);
