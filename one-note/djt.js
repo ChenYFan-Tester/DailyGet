@@ -1,1 +1,1 @@
-document.write(`暗恋的人没有，想暗杀的倒有一堆。`);
+document.write(`人为什么叫人类，因为人活着就是累。`);
